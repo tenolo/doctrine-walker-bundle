@@ -10,7 +10,7 @@
 
 # Doctrine Walker Bundle
 
-A Symfony Bundle to a event driven sql walker.
+A Symfony Bundle to add a event driven sql walker in Doctrine.
 
 ## Install instructions
 
@@ -43,8 +43,6 @@ use Tenolo\Bundle\DoctrineWalkerBundle\Event\SqlWalkerEvent;
 
 /**
  * Class ExampleWalkerListener
- *
- * @author  Nikita Loges
  */
 class ExampleWalkerListener implements EventSubscriberInterface
 {
