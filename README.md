@@ -1,11 +1,11 @@
 [![tenolo](https://tenolo.de/themes/486/img/tenolo_werbeagentur_bochum.png)](https://tenolo.de)
 
-
 [![PHP Version](https://img.shields.io/packagist/php-v/tenolo/doctrine-walker-bundle.svg)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
-[![Latest Stable Version](https://poser.pugx.org/tenolo/doctrine-walker-bundle/v/stable)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
-[![Total Downloads](https://poser.pugx.org/tenolo/doctrine-walker-bundle/downloads)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
-[![Latest Unstable Version](https://poser.pugx.org/tenolo/doctrine-walker-bundle/v/unstable)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
-[![License](https://poser.pugx.org/tenolo/doctrine-walker-bundle/license)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
+[![Latest Stable Version](https://img.shields.io/packagist/v/tenolo/doctrine-walker-bundle.svg?label=stable)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
+[![Latest Unstable Version](https://img.shields.io/packagist/vpre/tenolo/doctrine-walker-bundle.svg?label=unstable)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
+[![Total Downloads](https://img.shields.io/packagist/dt/tenolo/doctrine-walker-bundle.svg)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
+[![Total Downloads](https://img.shields.io/packagist/dm/tenolo/doctrine-walker-bundle.svg)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
+[![License](https://img.shields.io/packagist/l/tenolo/doctrine-walker-bundle.svg)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
 
 # Doctrine Walker Bundle
 
