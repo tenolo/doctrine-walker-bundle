@@ -1,4 +1,4 @@
-[![tenolo](https://tenolo.de/themes/486/img/tenolo_werbeagentur_bochum.png)](https://tenolo.de)
+[![tenolo](https://content.tenolo.com/tenolo.png)](https://tenolo.de)
 
 [![PHP Version](https://img.shields.io/packagist/php-v/tenolo/doctrine-walker-bundle.svg)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
 [![Latest Stable Version](https://img.shields.io/packagist/v/tenolo/doctrine-walker-bundle.svg?label=stable)](https://packagist.org/packages/tenolo/doctrine-walker-bundle)
